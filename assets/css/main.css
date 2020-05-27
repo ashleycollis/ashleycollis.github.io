@@ -212,14 +212,12 @@ body {
 }
 
 .bio {
-  width: 1000px;
   padding: 50px;
   margin: auto;
   background-color: #f1fffa;
 }
 
 .bio--text {
-  width: 700px;
   margin: auto;
 }
 
